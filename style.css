@@ -1,0 +1,77 @@
+
+.link-button{
+    text-decoration: none;
+    border: 2px solid rgb(170, 17, 17);
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 10px 40px;
+}
+.link-section
+{
+    display: flex;
+    
+    padding: 100px;
+    background-color: violet;
+}
+.half-width
+{
+    width: 25%;
+    margin-right: 40px;
+}
+h1{
+    font-size: 50px;
+    color: red
+}
+.heading-section
+{
+    
+    display: flex;
+    background-color: skyblue;
+}
+.width{
+    width: 50%;
+    margin-right: 20px;
+}
+span
+{
+    text-align: center;
+}
+.my-shopping
+{
+    text-align: center;
+    background-color: palegoldenrod;
+}
+.footer
+{
+    display: flex;
+   padding: 10px;
+    
+}
+.footer-width
+{
+    width: 50;
+    padding: 10px 30px;
+    box-shadow: 10px 10px 40px rgb(26, 21, 18);
+    border-radius: 10px;
+    border: 2px solid green;
+    
+
+    
+}
+h2{
+    font-size: 40px;
+    color: rgb(47, 0, 255);
+    text-align: center;
+    
+}
+.lastone
+{
+    text-align: center;
+    background-color: black;
+    color: gray;
+}
+.food{
+        color: orange;
+}
